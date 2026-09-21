@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.8-dev",
+  "version": "0.9-dev",
   "launcher_min_version": "0.7.3",
   "files": [
     {
-      "id": "webui-gluemanager",
-      "source": "payload/webui/gluemanager.js",
+      "id": "retail-webui-gluemanager-js",
+      "source": "payload/_retail_/webui/gluemanager.js",
       "destination": "_retail_/webui/gluemanager.js",
       "sha256": "501bfe77714823461d13c2be8e6d2c233f59f97583f33d3738ae8ea974174d20",
       "backup_before_replace": true
