@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.14-dev",
-  "launcher_min_version": "0.9",
+  "version": "0.15-dev",
+  "launcher_min_version": "0.8.1",
   "files": [
     {
       "id": "retail-webui-gluemanager-js",
