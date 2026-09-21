@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.7-dev",
+  "version": "0.7.1-dev",
   "launcher_min_version": "0.7",
   "files": [
     {
       "id": "online-update-probe",
       "source": "payload/online_update_probe.txt",
       "destination": "_retail_/valeriastra_online_update_probe.txt",
-      "sha256": "2f214c1ccc1ea2d8a127b73e14ae512999a8b18036789ac5b047ff3898fa5814",
+      "sha256": "3d444debe386401a365ca5528bbcf618f018f70a7bc494c82741ccd33c15c004",
       "backup_before_replace": false
     }
   ]
