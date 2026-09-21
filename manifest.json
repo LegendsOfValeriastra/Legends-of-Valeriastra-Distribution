@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.11-dev",
+  "version": "0.12-dev",
   "launcher_min_version": "0.7.3",
   "files": [
     {
@@ -10,6 +10,13 @@
       "destination": "_retail_/webui/gluemanager.js",
       "sha256": "501bfe77714823461d13c2be8e6d2c233f59f97583f33d3738ae8ea974174d20",
       "backup_before_replace": true
+    },
+    {
+      "id": "valeriastra-preservation-test-txt",
+      "source": "payload/Valeriastra/preservation_test.txt",
+      "destination": "Valeriastra/preservation_test.txt",
+      "sha256": "bd00c6965b622855db06fe1a80b34e16fbbe1afa7804beedea58842399190daf",
+      "backup_before_replace": false
     }
   ]
 }
