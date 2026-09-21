@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.15-dev",
+  "version": "0.16-dev",
   "launcher_min_version": "0.8.1",
   "files": [
     {
