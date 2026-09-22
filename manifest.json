@@ -1,14 +1,21 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.16-dev",
+  "version": "0.17-dev",
   "launcher_min_version": "0.8.1",
   "files": [
+    {
+      "id": "retail-valeriastra-manifest-probe-txt",
+      "source": "payload/_retail_/valeriastra_manifest_probe.txt",
+      "destination": "_retail_/valeriastra_manifest_probe.txt",
+      "sha256": "7E901DCED7BE580C8148125BE69709F69172F7B3F3EB126C82195D42C5DC0A45",
+      "backup_before_replace": false
+    },
     {
       "id": "retail-webui-gluemanager-js",
       "source": "payload/_retail_/webui/gluemanager.js",
       "destination": "_retail_/webui/gluemanager.js",
-      "sha256": "501bfe77714823461d13c2be8e6d2c233f59f97583f33d3738ae8ea974174d20",
+      "sha256": "501BFE77714823461D13C2BE8E6D2C233F59F97583F33D3738AE8EA974174D20",
       "backup_before_replace": true
     }
   ]
